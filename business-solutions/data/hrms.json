@@ -1,0 +1,190 @@
+{
+    "heroSection": {
+      "heading": "Human Resource Management System",
+      "desc": "Optimize HR operations with our comprehensive HRMS software development services. We specialize in Human Resource Management System software solutions that streamline employee management, payroll processing, and organizational HR tasks. Our solutions enhance operational efficiency and employee satisfaction.",
+      "heroDesktop": "/assets/hrms/images/heroDesktop.jpg",
+      "heroMobile": "/assets/hrms/images/heroImage.jpg"
+    },
+  
+    "servicesData": {
+      "heading": "Our Human Resource Management System Solutions",
+      "desc": "With expertise in HRMS system services, we ensure your HR projects meet organizational goals and enhance workforce management.",
+      "services": [
+        {
+          "icon": "/assets/hrms/icons/Consulting.png",
+          "heading": "Consulting",
+          "description": "We offer consulting services for custom HRMS software development and HR process optimization. Our consulting helps organizations implement and manage HRMS projects effectively, focusing on enhancing HR workflows and operational efficiencies."
+        },
+        {
+          "icon": "/assets/hrms/icons/Implementation & Migration.png",
+          "heading": "Implementation & Migration",
+          "description": "Our HRMS implementation services automate HR processes such as employee onboarding, attendance tracking, and performance management. We analyze existing HR bottlenecks and execute seamless migrations for improved HR operations. From building new HRMS systems to migrating data, we manage the entire process for a streamlined solution."
+        },
+        {
+          "icon": "/assets/hrms/icons/Custom Development.png",
+          "heading": "Custom Development",
+          "description": "Custom HRMS development services include business analysis, iterative development, and testing. Our solutions empower organizations to manage employee data, payroll processing, and HR analytics efficiently."
+        },
+        {
+          "icon": "/assets/hrms/icons/Testing.png",
+          "heading": "Testing",
+          "description": "HRMS testing covers functionality, integration, performance, usability, and security aspects. We ensure thorough testing to deliver reliable and secure HRMS solutions."
+        },
+        {
+          "icon": "/assets/hrms/icons/Support and Evolution.png",
+          "heading": "Support and Evolution",
+          "description": "We provide support and evolution services for HRMS systems, including data management, system monitoring, and ongoing enhancements. Our proactive support ensures continuous system availability and resolves HRMS issues promptly."
+        },
+        {
+          "icon": "/assets/hrms/icons/Campaign Management.png",
+          "heading": "Employee Engagement",
+          "description": "Our HRMS employee engagement services focus on improving employee satisfaction and productivity. We assist in designing employee engagement programs, conducting surveys, and analyzing feedback to enhance organizational culture."
+        }
+      ]
+    },
+    "contactOneData": {
+      "heading": "Let's Discuss Your HRMS Project",
+      "des": "Get a free consultation and share your HRMS project requirements with us. Let's transform your HR operations with innovative digital solutions.",
+      "button": "Contact Us"
+    },
+    "contactTwoData": {
+      "heading": "Considering an HRMS Project? Contact Us",
+      "des": "Contact us today to schedule a call and discuss your HRMS system needs. We look forward to collaborating with you.",
+      "button": "Contact Us"
+    },
+    "technologiesData": {
+      "heading": "Our Comprehensive HRMS Tech Stack",
+      "desc": "Explore the technologies powering our HRMS solutions.",
+      "list": [
+        {
+          "heading": "Platforms",
+          "techstacks": ["Workday", "SAP SuccessFactors"]
+        },
+        {
+          "heading": "Custom Development: Back end",
+          "techstacks": [".NET", "Java", "Python", "Node.js"]
+        },
+        {
+          "heading": "Custom Development: Front end",
+          "techstacks": ["React", "Angular", "Vue.js"]
+        }
+      ]
+    },
+    "industrySolutionsData": {
+      "heading": "Equipped with Capabilities to Develop Human Resource Management Systems",
+      "subHeading": "We specialize in developing HRMS modules tailored to optimize HR workflows and enhance organizational efficiency.",
+      "cardsData": [
+        {
+          "image": "/assets/hrms/icons/Consulting.png",
+          "moduleName": "HRMS for Corporates",
+          "moduleDescription": "Enhance corporate HR operations with HRMS solutions designed for employee management, payroll processing, and HR analytics."
+        },
+        {
+          "image": "/assets/hrms/icons/Campaign Management.png",
+          "moduleName": "HRMS for Small Businesses",
+          "moduleDescription": "Streamline HR tasks for small businesses with HRMS tools that automate employee records management, benefits administration, and compliance tracking."
+        },
+        {
+          "image": "/assets/hrms/icons/Implementation & Migration.png",
+          "moduleName": "HRMS for Enterprises",
+          "moduleDescription": "Optimize enterprise HR operations with HRMS modules focusing on workforce planning, talent management, and employee development."
+        },
+        {
+          "image": "/assets/hrms/icons/Testing.png",
+          "moduleName": "HRMS for Remote Workforce",
+          "moduleDescription": "Support remote workforce management with HRMS systems that facilitate virtual onboarding, performance monitoring, and employee engagement."
+        },
+        {
+          "image": "/assets/hrms/icons/Support and Evolution.png",
+          "moduleName": "HRMS for Global Teams",
+          "moduleDescription": "Manage global HR operations with HRMS solutions that ensure compliance with international HR regulations, payroll processing, and cross-border talent management."
+        },
+        {
+          "image": "/assets/hrms/icons/Campaign Management.png",
+          "moduleName": "HRMS for Startups",
+          "moduleDescription": "Support startup growth with HRMS platforms that automate HR tasks, enhance employee engagement, and streamline organizational workflows."
+        }
+      ]
+    },
+    "whyChooseUsData": {
+      "heading": "Why Partner With Us for Your HRMS?",
+      "des": "As a trusted provider of HRMS solutions, we bring extensive experience in HR software development, delivering tailored solutions across diverse industries.",
+      "list": [
+        {
+          "image": "/assets/hrms/icons/comprehensive.png",
+          "cardTitle": "Comprehensive HRMS Solutions",
+          "cardDes": "From developing HRMS systems to enhancing existing ones, we ensure seamless integration with organizational HR operations."
+        },
+        {
+          "image": "/assets/hrms/icons/faster-development.png",
+          "cardTitle": "Accelerated Development Timelines",
+          "cardDes": "Using agile methodologies, we deliver MVP versions of HRMS solutions within a few months, with iterative updates to meet evolving HR needs."
+        },
+        {
+          "image": "/assets/hrms/icons/end-to-end-support.png",
+          "cardTitle": "End-to-End Support",
+          "cardDes": "We provide comprehensive support, ensuring continuous system performance and addressing any HRMS issues promptly."
+        },
+        {
+          "image": "/assets/hrms/icons/greater-transparency.png",
+          "cardTitle": "Transparent Engagement",
+          "cardDes": "We maintain transparency throughout the development process, offering clear insights and fair pricing for all project stages."
+        },
+        {
+          "image": "/assets/hrms/icons/multi-platform-erp.png",
+          "cardTitle": "Multi-Platform Compatibility",
+          "cardDes": "Our HRMS solutions are compatible across various platforms, including web, mobile, and desktop, ensuring user-friendly interfaces and seamless user experiences."
+        },
+        {
+          "image": "/assets/hrms/icons/smooth-integration.png",
+          "cardTitle": "Seamless Integration",
+          "cardDes": "We ensure smooth integration of HRMS solutions with existing organizational systems and technologies, enhancing operational efficiency and data management."
+        }
+      ]
+    },
+    "faqData": [
+      {
+        "question": "Why should I choose Qurilo Solutions for HR software development and consulting?",
+        "answer": "We are a highly experienced team with a proven track record in delivering quality HR software solutions. Here are a few reasons to choose us:",
+        "list": [
+          "Expertise in HR software development",
+          "Strong reputation for delivering HR solutions",
+          "Experience working with organizations globally",
+          "In-depth knowledge of HR regulations and compliance"
+        ]
+      },
+      {
+        "question": "Can I test your HR software development services before committing to a long-term engagement?",
+        "answer": "Yes, you can test our HR software development services with a free trial. Contact us to discuss your requirements and explore our services risk-free."
+      },
+      {
+        "question": "What are the cost considerations for outsourcing HR software development?",
+        "answer": "The cost of HR software development varies based on project complexity, features, integrations, and platforms. Contact us with your project details for an estimate."
+      },
+      {
+        "question": "Does Qurilo Solutions offer white-label HR software development services?",
+        "answer": "Yes, we provide white-label HR software development services. Contact us to discuss your white-label software needs."
+      },
+      {
+        "question": "Do you work with startups and clients on a budget?",
+        "answer": "Yes, we work with startups and clients of all sizes. We offer cost-effective solutions and initial technology consulting to help startups succeed."
+      },
+      {
+        "question": "How do you ensure IP and data protection for HR software development projects?",
+        "answer": "We ensure IP and data protection through strict adherence to security practices, including NDAs, compliance with data protection regulations, secure coding, and data encryption."
+      },
+      {
+        "question": "What engagement options do you offer for HR software development?",
+        "answer": "We offer flexible engagement models, including dedicated teams, staff augmentation, and project-based outsourcing, tailored to meet your specific HR software development needs."
+      },
+      {
+        "question": "How does the HR software development outsourcing process work?",
+        "answer": "The HR software development outsourcing process involves defining project scope, team formation, development iterations, client collaboration, and final delivery. Contact us to learn more about our process."
+      },
+      {
+        "question": "What are the advantages of outsourcing HR software development to India?",
+        "answer": "Outsourcing HR software development to India offers cost savings, access to skilled HR developers, experience in HR domain, and 24/7 support."
+      }
+    ]
+  }
+  
